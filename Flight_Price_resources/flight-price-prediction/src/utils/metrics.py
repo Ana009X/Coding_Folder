@@ -1,0 +1,1 @@
+gh repo create <repo-name> --public --source=. --remote=origin --push

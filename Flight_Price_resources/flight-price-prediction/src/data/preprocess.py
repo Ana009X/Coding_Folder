@@ -1,0 +1,1 @@
+gh repo create <REPO_NAME> --public --source=. --push
